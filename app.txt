@@ -1,2 +1,5 @@
 Datagrip
 WebStorm
+Visual Studio Code
+IntelliJ
+Youtube
