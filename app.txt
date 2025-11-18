@@ -1,8 +1,0 @@
-Datagrip
-WebStorm
-Visual Studio Code
-IntelliJ
-NetBeans
-Eclipse
-Santander App
-Youtube
